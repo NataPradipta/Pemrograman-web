@@ -1,0 +1,55 @@
+body{
+    margin-top: 50px;
+}
+.top-main-div{
+
+    position: relative;
+}
+
+
+
+
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
+
+.overlay{
+    position: absolute;
+    background-color: rgba(0,0, 0,0.8);
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+   
+}
+
+.fot{
+    color: white;
+
+}
+.main-heading{
+    color: white;
+    position: relative;
+    margin-top: 90px;
+    
+    
+}
+.container-fluid{
+
+    color: white;
+}
+
+
+.col-md-8{
+    margin-top: 80px;
+}
+
+.img{
+    size: 20px;
+}
+
+
+
+

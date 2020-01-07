@@ -1,0 +1,45 @@
+.bung-container{
+    padding-top: 50px;
+    margin-top: 50px;
+    
+}
+
+.container-fot{
+
+    height: 400px;
+    margin-top: 200px;
+    
+    
+}
+
+.fot1 .row .col-md-4{
+    margin-top: 40px;
+    padding-top: 30px;
+}
+
+.col-md-12{
+
+    margin-top: 50px;
+}
+
+.col{
+    margin-top: 40px;
+}
+
+.container-content{
+    padding-bottom: 200px;
+    
+}
+
+.container-fluid{
+
+    color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container-banner{
+
+    padding-top: 100px;
+    
+}

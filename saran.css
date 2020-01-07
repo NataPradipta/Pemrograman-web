@@ -1,0 +1,48 @@
+.container-content{
+    
+    margin-top: 90px;
+   padding-bottom: 20px;
+}
+.container-comment {
+
+    padding-top: 20px;
+    
+}
+
+.container-email
+{
+    padding-bottom: 50px;
+}
+
+.container-saran{
+
+    padding-bottom: 50px;
+}
+
+.title{
+
+    text-align: center;
+    
+}
+
+.container-fluid{
+
+    color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-md-4{
+
+    padding-top: 30px;
+}
+
+.col-md-12{
+
+    /* padding-top: 30px; */
+}
+
+.col{
+
+    padding-top: 40px;
+}
